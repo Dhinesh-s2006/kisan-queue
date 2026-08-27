@@ -107,6 +107,7 @@ export default function App() {
           ))}
         </tbody>
       </table>
+      {centreId && <GrievancePanel centreId={centreId} />}
     </div>
   );
 }
@@ -116,6 +117,129 @@ function Stat({ label, value }) {
     <div style={{ background: '#e8f5e9', padding: 16, borderRadius: 8, flex: 1, textAlign: 'center' }}>
       <div style={{ fontSize: 24, fontWeight: 'bold' }}>{value}</div>
       <div>{label}</div>
+    </div>
+  );
+}
+
+function GrievancePanel({ centreId }) {
+  const [grievances, setGrievances] = useState([]);
+  const [notes, setNotes] = useState({});
+
+  const load = async () => {
+    if (!centreId) return;
+
+    const res = await API.get(`/centres/${centreId}/grievances`);
+    setGrievances(res.data);
+  };
+
+  useEffect(() => {
+    load();
+  }, [centreId]);
+
+  const resolve = async (id) => {
+    await API.patch(
+      `/grievances/${id}/resolve`,
+      {
+        resolution_notes: notes[id] || 'Resolved by staff'
+      }
+    );
+
+    load();
+  };
+
+  const badgeColor = {
+    'On Track': '#4caf50',
+    'Due Soon': '#ff9800',
+    'Escalated': '#f44336',
+    'Resolved': '#9e9e9e'
+  };
+
+  return (
+    <div style={{ marginTop: 30 }}>
+      <h2>Grievances</h2>
+
+      <table
+        width="100%"
+        border="1"
+        cellPadding="8"
+        style={{ borderCollapse: 'collapse' }}
+      >
+        <thead>
+          <tr style={{ background: '#f0f0f0' }}>
+            <th>Farmer</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>SLA Status</th>
+            <th>Hrs Left</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          {grievances.map(g => (
+            <tr key={g.grievance_id}>
+              <td>
+                {g.farmer_name} ({g.phone})
+              </td>
+
+              <td>
+                {g.issue_type}
+              </td>
+
+              <td>
+                {g.description}
+              </td>
+
+              <td>
+                <span
+                  style={{
+                    background: badgeColor[g.sla_status],
+                    color: 'white',
+                    padding: '2px 8px',
+                    borderRadius: 4
+                  }}
+                >
+                  {g.sla_status}
+                </span>
+              </td>
+
+              <td>
+                {g.status === 'Resolved'
+                  ? '—'
+                  : Math.max(
+                      0,
+                      Math.round(g.hours_remaining)
+                    )}
+              </td>
+
+              <td>
+                {g.status !== 'Resolved' && (
+                  <>
+                    <input
+                      placeholder="Resolution note"
+                      style={{ width: 100 }}
+                      onChange={e =>
+                        setNotes({
+                          ...notes,
+                          [g.grievance_id]: e.target.value
+                        })
+                      }
+                    />
+
+                    <button
+                      onClick={() =>
+                        resolve(g.grievance_id)
+                      }
+                    >
+                      Resolve
+                    </button>
+                  </>
+                )}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 }

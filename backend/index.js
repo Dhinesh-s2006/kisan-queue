@@ -288,6 +288,320 @@ app.get('/api/centres/:id/avg-processing-time', async (req, res) => {
   res.json({ avg_minutes_per_farmer: Math.round(avg), source: 'moving_average', sample_size: durations.length });
 });
 
+
+// =====================================================
+// GRIEVANCE / COMPLAINT SYSTEM WITH SLA ESCALATION
+// =====================================================
+
+// SLA time limits in hours
+const SLA_HOURS = {
+  'Payment Delay': 48,
+  'Grading Dispute': 24,
+  'Staff Conduct': 72,
+  'Other': 72
+};
+
+
+// 1. Farmer raises a grievance
+app.post('/api/grievances', async (req, res) => {
+  try {
+    const {
+      farmer_id,
+      booking_id,
+      centre_id,
+      issue_type,
+      description
+    } = req.body;
+
+    // Basic validation
+    if (!farmer_id || !centre_id || !issue_type || !description) {
+      return res.status(400).json({
+        error: 'missing_fields',
+        message: 'Farmer ID, centre ID, issue type and description are required.'
+      });
+    }
+
+    // Check farmer exists
+    const farmer = await pool.query(
+      'SELECT farmer_id FROM farmers WHERE farmer_id=$1',
+      [farmer_id]
+    );
+
+    if (farmer.rows.length === 0) {
+      return res.status(404).json({
+        error: 'farmer_not_found',
+        message: 'Farmer not found.'
+      });
+    }
+
+    // Check centre exists
+    const centre = await pool.query(
+      'SELECT centre_id FROM centres WHERE centre_id=$1',
+      [centre_id]
+    );
+
+    if (centre.rows.length === 0) {
+      return res.status(404).json({
+        error: 'centre_not_found',
+        message: 'Centre not found.'
+      });
+    }
+
+    // Generate grievance ID
+    const grievance_id =
+      'G' + Date.now().toString().slice(-8);
+
+    // Get SLA duration
+    const slaHours = SLA_HOURS[issue_type] || 72;
+
+    // Insert grievance
+    await pool.query(
+      `INSERT INTO grievances
+       (
+         grievance_id,
+         booking_id,
+         farmer_id,
+         centre_id,
+         issue_type,
+         description,
+         status,
+         sla_deadline
+       )
+       VALUES
+       (
+         $1,$2,$3,$4,$5,$6,'Open',
+         NOW() + ($7 * INTERVAL '1 hour')
+       )`,
+      [
+        grievance_id,
+        booking_id || null,
+        farmer_id,
+        centre_id,
+        issue_type,
+        description,
+        slaHours
+      ]
+    );
+
+    res.json({
+      success: true,
+      grievance_id,
+      status: 'Open',
+      sla_hours: slaHours,
+      message: `Grievance raised successfully. It must be resolved within ${slaHours} hours.`
+    });
+
+  } catch (err) {
+    console.error('Create grievance error:', err);
+
+    res.status(500).json({
+      error: 'server_error',
+      message: 'Unable to create grievance.'
+    });
+  }
+});
+
+
+// 2. Farmer views their grievances
+app.get('/api/grievances/:farmerId', async (req, res) => {
+  try {
+
+    const r = await pool.query(
+      `SELECT
+         *,
+         CASE
+           WHEN status = 'Resolved'
+             THEN 'Resolved'
+
+           WHEN NOW() > sla_deadline
+             THEN 'Escalated'
+
+           WHEN sla_deadline - NOW() < INTERVAL '6 hours'
+             THEN 'Due Soon'
+
+           ELSE 'On Track'
+         END AS sla_status
+
+       FROM grievances
+
+       WHERE farmer_id=$1
+
+       ORDER BY created_at DESC`,
+      [req.params.farmerId]
+    );
+
+    res.json(r.rows);
+
+  } catch (err) {
+
+    console.error('Get farmer grievances error:', err);
+
+    res.status(500).json({
+      error: 'server_error',
+      message: 'Unable to load grievances.'
+    });
+  }
+});
+
+
+// 3. Admin views grievances for a centre
+app.get('/api/centres/:id/grievances', async (req, res) => {
+  try {
+
+    const r = await pool.query(
+      `SELECT
+         g.*,
+         f.name AS farmer_name,
+         f.phone,
+
+         CASE
+           WHEN g.status = 'Resolved'
+             THEN 'Resolved'
+
+           WHEN NOW() > g.sla_deadline
+             THEN 'Escalated'
+
+           WHEN g.sla_deadline - NOW() < INTERVAL '6 hours'
+             THEN 'Due Soon'
+
+           ELSE 'On Track'
+         END AS sla_status,
+
+         EXTRACT(
+           EPOCH FROM
+           (g.sla_deadline - NOW())
+         ) / 3600 AS hours_remaining
+
+       FROM grievances g
+
+       JOIN farmers f
+         ON g.farmer_id = f.farmer_id
+
+       WHERE g.centre_id=$1
+
+       ORDER BY
+         CASE
+           WHEN g.status != 'Resolved'
+            AND NOW() > g.sla_deadline
+           THEN 0
+           ELSE 1
+         END,
+
+         g.sla_deadline ASC`,
+      [req.params.id]
+    );
+
+    res.json(r.rows);
+
+  } catch (err) {
+
+    console.error('Get centre grievances error:', err);
+
+    res.status(500).json({
+      error: 'server_error',
+      message: 'Unable to load grievances.'
+    });
+  }
+});
+
+
+// 4. Admin marks grievance as In Progress / Escalated
+app.patch('/api/grievances/:id/status', async (req, res) => {
+  try {
+
+    const { status } = req.body;
+
+    const allowedStatuses = [
+      'Open',
+      'In Progress',
+      'Escalated'
+    ];
+
+    if (!allowedStatuses.includes(status)) {
+      return res.status(400).json({
+        error: 'invalid_status',
+        message: 'Invalid grievance status.'
+      });
+    }
+
+    const result = await pool.query(
+      `UPDATE grievances
+       SET status=$1
+       WHERE grievance_id=$2
+       RETURNING *`,
+      [status, req.params.id]
+    );
+
+    if (result.rows.length === 0) {
+      return res.status(404).json({
+        error: 'grievance_not_found',
+        message: 'Grievance not found.'
+      });
+    }
+
+    res.json({
+      success: true,
+      grievance: result.rows[0]
+    });
+
+  } catch (err) {
+
+    console.error('Update grievance status error:', err);
+
+    res.status(500).json({
+      error: 'server_error',
+      message: 'Unable to update grievance status.'
+    });
+  }
+});
+
+
+// 5. Admin resolves grievance
+app.patch('/api/grievances/:id/resolve', async (req, res) => {
+  try {
+
+    const { resolution_notes } = req.body;
+
+    const result = await pool.query(
+      `UPDATE grievances
+
+       SET
+         status='Resolved',
+         resolved_at=NOW(),
+         resolution_notes=$1
+
+       WHERE grievance_id=$2
+
+       RETURNING *`,
+      [
+        resolution_notes || 'Resolved by centre staff',
+        req.params.id
+      ]
+    );
+
+    if (result.rows.length === 0) {
+      return res.status(404).json({
+        error: 'grievance_not_found',
+        message: 'Grievance not found.'
+      });
+    }
+
+    res.json({
+      success: true,
+      grievance: result.rows[0]
+    });
+
+  } catch (err) {
+
+    console.error('Resolve grievance error:', err);
+
+    res.status(500).json({
+      error: 'server_error',
+      message: 'Unable to resolve grievance.'
+    });
+  }
+});
+
 app.get('/api/test', (req, res) => {
   res.json({ message: 'Backend is using the correct index.js' });
 });
