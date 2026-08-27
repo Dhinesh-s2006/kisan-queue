@@ -1,0 +1,61 @@
+farmer_id,name,phone,village,district,land_holding_acres,primary_crop,preferred_language,smartphone_access
+F0001,Vinod Patil,9433218196,Karadwadi,Pune,1.2,Soybean,English,Yes
+F0002,Manoj More,9637940265,Daund,Pune,2.1,Bajra,Marathi,Yes
+F0003,Geeta Reddy,9559407816,Shirur,Ahmednagar,6.7,Groundnut,Hindi,Yes
+F0004,Dinesh Sharma,9341316475,Sangamner,Ahmednagar,3.2,Maize,English,Yes
+F0005,Ravi More,9327648350,Indapur,Pune,6.5,Tur (Arhar),Hindi,Yes
+F0006,Sanjay Chauhan,9376724238,Daund,Ahmednagar,7.2,Tur (Arhar),Hindi,Yes
+F0007,Anil Shinde,9710122691,Khed,Ahmednagar,5.0,Onion,English,Yes
+F0008,Ramesh Reddy,9845146270,Daund,Pune,4.3,Paddy (Common),English,Yes
+F0009,Usha Verma,9252880957,Wadgaon,Pune,7.5,Maize,Marathi,Yes
+F0010,Vijay Yadav,9171822782,Daund,Ahmednagar,7.7,Gram (Chana),English,Yes
+F0011,Rakesh Joshi,9578713315,Wadgaon,Pune,4.9,Wheat,Marathi,Yes
+F0012,Ashok Yadav,9051834738,Kopargaon,Ahmednagar,2.3,Onion,Hindi,Yes
+F0013,Prakash Reddy,9656670106,Junnar,Pune,2.4,Soybean,English,No
+F0014,Anil Deshmukh,9247317810,Wadgaon,Pune,7.4,Soybean,Marathi,No
+F0015,Parvati Kale,9360260647,Purandar,Ahmednagar,5.7,Gram (Chana),English,No
+F0016,Sunil Verma,9430980500,Velhe,Pune,0.9,Gram (Chana),Marathi,Yes
+F0017,Dinesh Yadav,9361939909,Shirur,Ahmednagar,5.4,Groundnut,English,Yes
+F0018,Naresh Verma,9534624751,Wadgaon,Ahmednagar,5.2,Groundnut,Marathi,Yes
+F0019,Sanjay Shinde,9425135427,Purandar,Pune,5.5,Gram (Chana),Hindi,Yes
+F0020,Anil Rao,9118244935,Baramati,Ahmednagar,4.3,Maize,Marathi,Yes
+F0021,Sita Rao,9005242786,Wadgaon,Pune,1.1,Cotton,English,Yes
+F0022,Anita More,9262045053,Indapur,Pune,3.2,Gram (Chana),Hindi,Yes
+F0023,Vijay Singh,9260256342,Rahuri,Ahmednagar,7.0,Onion,Marathi,Yes
+F0024,Kamala Mehta,9433036541,Daund,Ahmednagar,5.3,Tur (Arhar),English,Yes
+F0025,Suresh Reddy,9429401965,Junnar,Ahmednagar,5.0,Gram (Chana),Marathi,No
+F0026,Manoj Rao,9060883561,Junnar,Ahmednagar,5.5,Paddy (Common),English,Yes
+F0027,Usha Gupta,9656482366,Sangamner,Ahmednagar,3.5,Wheat,Hindi,Yes
+F0028,Sanjay Deshmukh,9995777387,Sangamner,Pune,2.6,Groundnut,Hindi,Yes
+F0029,Vijay Gupta,9332003791,Bhor,Ahmednagar,7.1,Groundnut,Marathi,No
+F0030,Parvati Joshi,9320163287,Karadwadi,Pune,7.4,Paddy (Common),Hindi,Yes
+F0031,Kamala Shinde,9895798687,Sangamner,Ahmednagar,3.9,Soybean,English,Yes
+F0032,Shanti Kale,9347143455,Shirur,Pune,1.6,Tur (Arhar),English,Yes
+F0033,Sanjay Yadav,9665876036,Khed,Pune,6.9,Groundnut,Hindi,No
+F0034,Ramesh Mehta,9466889373,Daund,Ahmednagar,4.1,Tur (Arhar),Hindi,No
+F0035,Ravi Pawar,9298069901,Maval,Pune,7.0,Cotton,Marathi,Yes
+F0036,Geeta Chauhan,9375564641,Velhe,Pune,6.1,Wheat,Hindi,Yes
+F0037,Dinesh Sharma,9033092327,Rahuri,Pune,4.0,Maize,Hindi,Yes
+F0038,Vinod Singh,9419049663,Shirur,Pune,1.3,Maize,English,Yes
+F0039,Mahesh Mehta,9865185067,Rahuri,Ahmednagar,7.7,Onion,English,Yes
+F0040,Sita Singh,9849877694,Junnar,Pune,6.7,Paddy (Common),Hindi,No
+F0041,Vijay Pawar,9996507527,Baramati,Ahmednagar,6.5,Bajra,Hindi,Yes
+F0042,Ramesh Shinde,9313678377,Bhor,Pune,1.2,Soybean,Hindi,Yes
+F0043,Rakesh Mehta,9788568557,Daund,Ahmednagar,2.4,Paddy (Common),English,Yes
+F0044,Lakshmi Reddy,9823374989,Purandar,Pune,6.7,Maize,Marathi,Yes
+F0045,Kiran Gupta,9082400842,Velhe,Pune,7.0,Groundnut,Hindi,No
+F0046,Savitri Pawar,9520471167,Shirur,Pune,1.6,Groundnut,Hindi,Yes
+F0047,Vijay Reddy,9869993867,Bhor,Ahmednagar,7.0,Tur (Arhar),Hindi,Yes
+F0048,Prakash Verma,9341232812,Wadgaon,Ahmednagar,3.9,Groundnut,Hindi,Yes
+F0049,Mahesh Naidu,9447134936,Rahuri,Pune,5.4,Maize,Marathi,Yes
+F0050,Rajesh Singh,9499471746,Daund,Ahmednagar,3.8,Groundnut,Marathi,No
+F0051,Lakshmi Rao,9013990490,Sangamner,Ahmednagar,4.4,Onion,Hindi,Yes
+F0052,Sita Kale,9175655125,Maval,Ahmednagar,2.7,Tur (Arhar),English,Yes
+F0053,Kamala Yadav,9545168087,Maval,Pune,1.9,Bajra,English,No
+F0054,Radha Sharma,9348247710,Indapur,Pune,2.8,Wheat,English,No
+F0055,Ganesh Naidu,9171274846,Velhe,Ahmednagar,2.3,Gram (Chana),Marathi,No
+F0056,Manoj Shinde,9214658404,Purandar,Ahmednagar,7.0,Onion,English,No
+F0057,Kavita Chauhan,9886753396,Indapur,Ahmednagar,0.8,Onion,English,No
+F0058,Geeta Kumar,9702895171,Bhor,Pune,5.9,Tur (Arhar),English,Yes
+F0059,Dinesh Kale,9459615865,Velhe,Pune,5.1,Soybean,English,Yes
+F0060,Ashok Yadav,9611724005,Karadwadi,Ahmednagar,3.2,Tur (Arhar),Marathi,Yes

@@ -1,0 +1,3602 @@
+[
+  {
+    "slot_id": "S00001",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00002",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00003",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00004",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00005",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00006",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00007",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00008",
+    "centre_id": "PC001",
+    "date": "2026-03-01",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00009",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00010",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00011",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00012",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00013",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00014",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00015",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00016",
+    "centre_id": "PC001",
+    "date": "2026-03-02",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00017",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00018",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00019",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00020",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00021",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00022",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00023",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00024",
+    "centre_id": "PC001",
+    "date": "2026-03-03",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00025",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00026",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00027",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00028",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00029",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00030",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00031",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00032",
+    "centre_id": "PC001",
+    "date": "2026-03-04",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00033",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00034",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00035",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00036",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00037",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00038",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00039",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00040",
+    "centre_id": "PC001",
+    "date": "2026-03-05",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00041",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00042",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00043",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00044",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00045",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00046",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00047",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00048",
+    "centre_id": "PC001",
+    "date": "2026-03-06",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00049",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00050",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00051",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00052",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00053",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00054",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00055",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00056",
+    "centre_id": "PC001",
+    "date": "2026-03-07",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00057",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00058",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00059",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00060",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00061",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00062",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00063",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00064",
+    "centre_id": "PC001",
+    "date": "2026-03-08",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00065",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00066",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00067",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00068",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00069",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00070",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00071",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00072",
+    "centre_id": "PC001",
+    "date": "2026-03-09",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00073",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00074",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00075",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00076",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00077",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00078",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00079",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00080",
+    "centre_id": "PC001",
+    "date": "2026-03-10",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "7",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00081",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00082",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00083",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00084",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00085",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00086",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00087",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00088",
+    "centre_id": "PC002",
+    "date": "2026-03-01",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00089",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00090",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00091",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00092",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00093",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00094",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00095",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00096",
+    "centre_id": "PC002",
+    "date": "2026-03-02",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00097",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00098",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00099",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00100",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00101",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00102",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00103",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00104",
+    "centre_id": "PC002",
+    "date": "2026-03-03",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00105",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00106",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00107",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00108",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00109",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00110",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00111",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00112",
+    "centre_id": "PC002",
+    "date": "2026-03-04",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00113",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00114",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00115",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00116",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00117",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00118",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00119",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00120",
+    "centre_id": "PC002",
+    "date": "2026-03-05",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00121",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00122",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00123",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00124",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00125",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00126",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00127",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00128",
+    "centre_id": "PC002",
+    "date": "2026-03-06",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00129",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00130",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00131",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00132",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00133",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00134",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00135",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00136",
+    "centre_id": "PC002",
+    "date": "2026-03-07",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00137",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00138",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00139",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00140",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00141",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00142",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00143",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00144",
+    "centre_id": "PC002",
+    "date": "2026-03-08",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00145",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00146",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00147",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00148",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00149",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00150",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00151",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00152",
+    "centre_id": "PC002",
+    "date": "2026-03-09",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00153",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00154",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00155",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00156",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00157",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00158",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00159",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00160",
+    "centre_id": "PC002",
+    "date": "2026-03-10",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00161",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00162",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00163",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00164",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00165",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00166",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00167",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00168",
+    "centre_id": "PC003",
+    "date": "2026-03-01",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00169",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00170",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00171",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00172",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00173",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00174",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00175",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00176",
+    "centre_id": "PC003",
+    "date": "2026-03-02",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00177",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00178",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00179",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00180",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00181",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00182",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00183",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00184",
+    "centre_id": "PC003",
+    "date": "2026-03-03",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00185",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00186",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00187",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00188",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00189",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00190",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00191",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00192",
+    "centre_id": "PC003",
+    "date": "2026-03-04",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00193",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00194",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00195",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00196",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00197",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00198",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00199",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00200",
+    "centre_id": "PC003",
+    "date": "2026-03-05",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00201",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00202",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00203",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00204",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00205",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00206",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00207",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00208",
+    "centre_id": "PC003",
+    "date": "2026-03-06",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00209",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00210",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00211",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00212",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00213",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00214",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00215",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00216",
+    "centre_id": "PC003",
+    "date": "2026-03-07",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00217",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00218",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00219",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00220",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00221",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00222",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00223",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00224",
+    "centre_id": "PC003",
+    "date": "2026-03-08",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00225",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00226",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00227",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00228",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00229",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00230",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00231",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00232",
+    "centre_id": "PC003",
+    "date": "2026-03-09",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00233",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00234",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00235",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00236",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00237",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00238",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00239",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00240",
+    "centre_id": "PC003",
+    "date": "2026-03-10",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "6",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00241",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00242",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00243",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00244",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00245",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00246",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00247",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00248",
+    "centre_id": "PC004",
+    "date": "2026-03-01",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00249",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00250",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00251",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00252",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00253",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00254",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00255",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00256",
+    "centre_id": "PC004",
+    "date": "2026-03-02",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00257",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00258",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00259",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00260",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00261",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00262",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00263",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00264",
+    "centre_id": "PC004",
+    "date": "2026-03-03",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00265",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00266",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00267",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00268",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00269",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00270",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00271",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00272",
+    "centre_id": "PC004",
+    "date": "2026-03-04",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00273",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00274",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00275",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00276",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00277",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00278",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00279",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00280",
+    "centre_id": "PC004",
+    "date": "2026-03-05",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00281",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00282",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00283",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00284",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00285",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00286",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00287",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00288",
+    "centre_id": "PC004",
+    "date": "2026-03-06",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00289",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00290",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00291",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00292",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00293",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00294",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00295",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00296",
+    "centre_id": "PC004",
+    "date": "2026-03-07",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00297",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00298",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00299",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00300",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00301",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00302",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00303",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00304",
+    "centre_id": "PC004",
+    "date": "2026-03-08",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00305",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00306",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00307",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00308",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00309",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00310",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00311",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00312",
+    "centre_id": "PC004",
+    "date": "2026-03-09",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00313",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00314",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00315",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00316",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00317",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00318",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00319",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00320",
+    "centre_id": "PC004",
+    "date": "2026-03-10",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "5",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00321",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00322",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00323",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00324",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00325",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00326",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00327",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00328",
+    "centre_id": "PC005",
+    "date": "2026-03-01",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00329",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00330",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00331",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00332",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00333",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00334",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00335",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00336",
+    "centre_id": "PC005",
+    "date": "2026-03-02",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00337",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00338",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00339",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00340",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00341",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00342",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00343",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00344",
+    "centre_id": "PC005",
+    "date": "2026-03-03",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00345",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00346",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00347",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00348",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00349",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00350",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00351",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00352",
+    "centre_id": "PC005",
+    "date": "2026-03-04",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00353",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00354",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00355",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00356",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00357",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00358",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00359",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00360",
+    "centre_id": "PC005",
+    "date": "2026-03-05",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00361",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00362",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00363",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00364",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00365",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00366",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00367",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00368",
+    "centre_id": "PC005",
+    "date": "2026-03-06",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00369",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00370",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00371",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00372",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00373",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00374",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00375",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00376",
+    "centre_id": "PC005",
+    "date": "2026-03-07",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00377",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00378",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00379",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00380",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00381",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00382",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00383",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00384",
+    "centre_id": "PC005",
+    "date": "2026-03-08",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00385",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00386",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00387",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00388",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00389",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00390",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00391",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00392",
+    "centre_id": "PC005",
+    "date": "2026-03-09",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00393",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00394",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00395",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00396",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "11:00",
+    "end_time": "12:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00397",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00398",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "13:00",
+    "end_time": "14:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00399",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "14:00",
+    "end_time": "15:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  },
+  {
+    "slot_id": "S00400",
+    "centre_id": "PC005",
+    "date": "2026-03-10",
+    "start_time": "15:00",
+    "end_time": "16:00",
+    "max_farmers": "4",
+    "booked_count": "0"
+  }
+]

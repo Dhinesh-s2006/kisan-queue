@@ -1,0 +1,42 @@
+[
+  {
+    "centre_id": "PC001",
+    "centre_name": "Baramati APMC Procurement Centre",
+    "village_town": "Baramati",
+    "district": "Pune",
+    "daily_capacity_slots": "60",
+    "state": "Maharashtra"
+  },
+  {
+    "centre_id": "PC002",
+    "centre_name": "Shirur Krishi Kendra",
+    "village_town": "Shirur",
+    "district": "Pune",
+    "daily_capacity_slots": "45",
+    "state": "Maharashtra"
+  },
+  {
+    "centre_id": "PC003",
+    "centre_name": "Rahuri Procurement Hub",
+    "village_town": "Rahuri",
+    "district": "Ahmednagar",
+    "daily_capacity_slots": "50",
+    "state": "Maharashtra"
+  },
+  {
+    "centre_id": "PC004",
+    "centre_name": "Sangamner Farmer Centre",
+    "village_town": "Sangamner",
+    "district": "Ahmednagar",
+    "daily_capacity_slots": "40",
+    "state": "Maharashtra"
+  },
+  {
+    "centre_id": "PC005",
+    "centre_name": "Daund Mandi Procurement Point",
+    "village_town": "Daund",
+    "district": "Pune",
+    "daily_capacity_slots": "35",
+    "state": "Maharashtra"
+  }
+]

@@ -1,0 +1,151 @@
+booking_id,farmer_id,slot_id,centre_id,booking_date,crop,quantity_quintals,status,grading_result,procured_quantity_quintals,msp_rate_inr,payment_amount_inr,payment_status,queue_position_at_booking,estimated_wait_minutes,sms_notifications_sent
+B00001,F0034,S00211,PC003,2026-03-07,Groundnut,17.7,Confirmed,,,6377,,Not Applicable,1,12,2
+B00002,F0012,S00041,PC001,2026-03-06,Groundnut,22.0,Procured,FAQ (Fair Average Quality),22.0,6377,140294.0,Pending,1,12,4
+B00003,F0059,S00299,PC004,2026-03-08,Cotton,7.3,Procured,FAQ (Fair Average Quality),7.3,7121,51983.3,Pending,1,12,4
+B00004,F0043,S00005,PC001,2026-03-01,Onion,22.7,Procured,FAQ (Fair Average Quality),22.7,1200,27240.0,Pending,1,12,4
+B00005,F0029,S00177,PC003,2026-03-03,Groundnut,8.9,Payment Completed,Grade A,8.9,6377,56755.3,Completed,1,12,4
+B00006,F0030,S00155,PC002,2026-03-10,Soybean,25.0,Payment Pending,FAQ (Fair Average Quality),25.0,4892,122300.0,Pending,1,12,4
+B00007,F0025,S00293,PC004,2026-03-07,Bajra,15.2,Payment Completed,FAQ (Fair Average Quality),15.2,2500,38000.0,Completed,1,12,4
+B00008,F0054,S00338,PC005,2026-03-03,Tur (Arhar),8.3,Procured,Grade A,8.3,7000,58100.0,Pending,1,12,4
+B00009,F0048,S00026,PC001,2026-03-04,Groundnut,19.1,Payment Pending,Grade B,19.1,6377,121800.7,Pending,1,12,4
+B00010,F0050,S00118,PC002,2026-03-05,Groundnut,20.4,Confirmed,,,6377,,Not Applicable,1,12,2
+B00011,F0013,S00318,PC004,2026-03-10,Maize,17.6,Procured,Grade A,17.6,2090,36784.0,Pending,1,12,4
+B00012,F0054,S00071,PC001,2026-03-09,Paddy (Common),22.8,Procured,FAQ (Fair Average Quality),22.8,2183,49772.4,Pending,1,12,4
+B00013,F0029,S00018,PC001,2026-03-03,Groundnut,10.4,Confirmed,,,6377,,Not Applicable,1,12,2
+B00014,F0059,S00152,PC002,2026-03-09,Bajra,19.2,Confirmed,,,2500,,Not Applicable,1,12,2
+B00015,F0009,S00277,PC004,2026-03-05,Bajra,14.2,Payment Completed,Below FAQ - Rejected,0.0,2500,0.0,Completed,1,12,4
+B00016,F0017,S00247,PC004,2026-03-01,Maize,19.2,Checked-In,,,2090,,Not Applicable,1,12,3
+B00017,F0008,S00240,PC003,2026-03-10,Paddy (Common),5.2,Payment Completed,Grade B,5.2,2183,11351.6,Completed,1,12,4
+B00018,F0047,S00346,PC005,2026-03-04,Tur (Arhar),24.2,Payment Pending,FAQ (Fair Average Quality),24.2,7000,169400.0,Pending,1,12,4
+B00019,F0051,S00203,PC003,2026-03-06,Wheat,8.1,Confirmed,,,2275,,Not Applicable,1,12,2
+B00020,F0024,S00345,PC005,2026-03-04,Maize,15.4,Payment Pending,Grade B,15.4,2090,32186.0,Pending,1,12,4
+B00021,F0007,S00346,PC005,2026-03-04,Soybean,12.8,Procured,Grade B,12.8,4892,62617.6,Pending,2,24,4
+B00022,F0021,S00313,PC004,2026-03-10,Soybean,16.9,Procured,FAQ (Fair Average Quality),16.9,4892,82674.8,Pending,1,12,4
+B00023,F0045,S00155,PC002,2026-03-10,Tur (Arhar),4.7,Booked,,,7000,,Not Applicable,2,24,1
+B00024,F0003,S00156,PC002,2026-03-10,Onion,4.7,Confirmed,,,1200,,Not Applicable,1,12,2
+B00025,F0035,S00070,PC001,2026-03-09,Tur (Arhar),12.4,Procured,Grade A,12.4,7000,86800.0,Pending,1,12,4
+B00026,F0035,S00215,PC003,2026-03-07,Groundnut,19.1,Confirmed,,,6377,,Not Applicable,1,12,2
+B00027,F0027,S00336,PC005,2026-03-02,Paddy (Common),21.2,Procured,Grade B,21.2,2183,46279.6,Pending,1,12,4
+B00028,F0018,S00017,PC001,2026-03-03,Bajra,7.0,Grading,FAQ (Fair Average Quality),,2500,,Not Applicable,1,12,4
+B00029,F0024,S00051,PC001,2026-03-07,Bajra,14.5,Payment Completed,FAQ (Fair Average Quality),14.5,2500,36250.0,Completed,1,12,4
+B00030,F0026,S00142,PC002,2026-03-08,Soybean,24.3,Payment Completed,Below FAQ - Rejected,0.0,4892,0.0,Completed,1,12,4
+B00031,F0006,S00340,PC005,2026-03-03,Soybean,16.8,Procured,FAQ (Fair Average Quality),16.8,4892,82185.6,Pending,1,12,4
+B00032,F0051,S00171,PC003,2026-03-02,Soybean,24.7,Payment Pending,FAQ (Fair Average Quality),24.7,4892,120832.4,Pending,1,12,4
+B00033,F0054,S00392,PC005,2026-03-09,Gram (Chana),6.8,Confirmed,,,5440,,Not Applicable,1,12,2
+B00034,F0056,S00120,PC002,2026-03-05,Bajra,19.8,Payment Pending,Grade A,19.8,2500,49500.0,Pending,1,12,4
+B00035,F0018,S00075,PC001,2026-03-10,Cotton,14.4,Payment Pending,FAQ (Fair Average Quality),14.4,7121,102542.4,Pending,1,12,4
+B00036,F0056,S00014,PC001,2026-03-02,Cotton,2.3,Payment Pending,FAQ (Fair Average Quality),2.3,7121,16378.3,Pending,1,12,4
+B00037,F0021,S00009,PC001,2026-03-02,Cotton,8.1,Confirmed,,,7121,,Not Applicable,1,12,2
+B00038,F0027,S00270,PC004,2026-03-04,Paddy (Common),19.2,Grading,Below FAQ - Rejected,,2183,,Not Applicable,1,12,4
+B00039,F0033,S00304,PC004,2026-03-08,Paddy (Common),12.4,Confirmed,,,2183,,Not Applicable,1,12,2
+B00040,F0040,S00023,PC001,2026-03-03,Gram (Chana),8.9,Procured,FAQ (Fair Average Quality),8.9,5440,48416.0,Pending,1,12,4
+B00041,F0031,S00206,PC003,2026-03-06,Tur (Arhar),17.8,Grading,Grade B,,7000,,Not Applicable,1,12,4
+B00042,F0005,S00042,PC001,2026-03-06,Bajra,16.0,Booked,,,2500,,Not Applicable,1,12,1
+B00043,F0018,S00320,PC004,2026-03-10,Groundnut,14.6,Checked-In,,,6377,,Not Applicable,1,12,3
+B00044,F0039,S00272,PC004,2026-03-04,Maize,12.4,Procured,FAQ (Fair Average Quality),12.4,2090,25916.0,Pending,1,12,4
+B00045,F0045,S00059,PC001,2026-03-08,Gram (Chana),18.6,Confirmed,,,5440,,Not Applicable,1,12,2
+B00046,F0029,S00117,PC002,2026-03-05,Tur (Arhar),9.8,Grading,FAQ (Fair Average Quality),,7000,,Not Applicable,1,12,4
+B00047,F0007,S00161,PC003,2026-03-01,Tur (Arhar),9.2,Checked-In,,,7000,,Not Applicable,1,12,3
+B00048,F0010,S00352,PC005,2026-03-04,Onion,3.5,Payment Pending,FAQ (Fair Average Quality),3.5,1200,4200.0,Pending,1,12,4
+B00049,F0007,S00382,PC005,2026-03-08,Bajra,20.7,Procured,Grade A,20.7,2500,51750.0,Pending,1,12,4
+B00050,F0036,S00288,PC004,2026-03-06,Bajra,17.4,Grading,Grade B,,2500,,Not Applicable,1,12,4
+B00051,F0049,S00217,PC003,2026-03-08,Wheat,24.3,Procured,FAQ (Fair Average Quality),24.3,2275,55282.5,Pending,1,12,4
+B00052,F0037,S00260,PC004,2026-03-03,Soybean,5.6,Grading,Below FAQ - Rejected,,4892,,Not Applicable,1,12,4
+B00053,F0023,S00285,PC004,2026-03-06,Bajra,4.6,Checked-In,,,2500,,Not Applicable,1,12,3
+B00054,F0015,S00220,PC003,2026-03-08,Gram (Chana),24.4,Payment Pending,Grade A,24.4,5440,132736.0,Pending,1,12,4
+B00055,F0042,S00286,PC004,2026-03-06,Wheat,16.0,Procured,Grade A,16.0,2275,36400.0,Pending,1,12,4
+B00056,F0002,S00093,PC002,2026-03-02,Maize,18.2,Checked-In,,,2090,,Not Applicable,1,12,3
+B00057,F0022,S00180,PC003,2026-03-03,Wheat,6.2,Confirmed,,,2275,,Not Applicable,1,12,2
+B00058,F0043,S00206,PC003,2026-03-06,Paddy (Common),5.3,Procured,FAQ (Fair Average Quality),5.3,2183,11569.9,Pending,2,24,4
+B00059,F0048,S00272,PC004,2026-03-04,Soybean,10.7,Grading,FAQ (Fair Average Quality),,4892,,Not Applicable,2,24,4
+B00060,F0020,S00370,PC005,2026-03-07,Bajra,19.9,Procured,FAQ (Fair Average Quality),19.9,2500,49750.0,Pending,1,12,4
+B00061,F0004,S00080,PC001,2026-03-10,Cotton,19.4,Booked,,,7121,,Not Applicable,1,12,1
+B00062,F0006,S00140,PC002,2026-03-08,Onion,17.2,Grading,FAQ (Fair Average Quality),,1200,,Not Applicable,1,12,4
+B00063,F0018,S00111,PC002,2026-03-04,Gram (Chana),4.6,Grading,FAQ (Fair Average Quality),,5440,,Not Applicable,1,12,4
+B00064,F0044,S00304,PC004,2026-03-08,Onion,14.1,Checked-In,,,1200,,Not Applicable,2,24,3
+B00065,F0015,S00203,PC003,2026-03-06,Groundnut,3.3,Confirmed,,,6377,,Not Applicable,2,24,2
+B00066,F0014,S00393,PC005,2026-03-10,Cotton,19.6,Checked-In,,,7121,,Not Applicable,1,12,3
+B00067,F0008,S00004,PC001,2026-03-01,Onion,19.2,Confirmed,,,1200,,Not Applicable,1,12,2
+B00068,F0025,S00273,PC004,2026-03-05,Soybean,13.5,Payment Pending,Below FAQ - Rejected,0.0,4892,0.0,Pending,1,12,4
+B00069,F0005,S00204,PC003,2026-03-06,Wheat,12.0,Grading,FAQ (Fair Average Quality),,2275,,Not Applicable,1,12,4
+B00070,F0021,S00295,PC004,2026-03-07,Tur (Arhar),15.2,Procured,FAQ (Fair Average Quality),15.2,7000,106400.0,Pending,1,12,4
+B00071,F0008,S00208,PC003,2026-03-06,Wheat,24.2,Confirmed,,,2275,,Not Applicable,1,12,2
+B00072,F0040,S00236,PC003,2026-03-10,Bajra,4.0,Payment Pending,FAQ (Fair Average Quality),4.0,2500,10000.0,Pending,1,12,4
+B00073,F0038,S00206,PC003,2026-03-06,Gram (Chana),3.8,Payment Pending,Grade A,3.8,5440,20672.0,Pending,3,36,4
+B00074,F0015,S00171,PC003,2026-03-02,Cotton,3.8,Procured,FAQ (Fair Average Quality),3.8,7121,27059.8,Pending,2,24,4
+B00075,F0013,S00398,PC005,2026-03-10,Bajra,10.1,Payment Completed,Grade A,10.1,2500,25250.0,Completed,1,12,4
+B00076,F0010,S00121,PC002,2026-03-06,Paddy (Common),5.4,Confirmed,,,2183,,Not Applicable,1,12,2
+B00077,F0039,S00079,PC001,2026-03-10,Paddy (Common),6.1,Payment Pending,FAQ (Fair Average Quality),6.1,2183,13316.3,Pending,1,12,4
+B00078,F0049,S00289,PC004,2026-03-07,Groundnut,12.3,Payment Completed,Grade A,12.3,6377,78437.1,Completed,1,12,4
+B00079,F0041,S00320,PC004,2026-03-10,Bajra,21.9,Procured,FAQ (Fair Average Quality),21.9,2500,54750.0,Pending,2,24,4
+B00080,F0005,S00241,PC004,2026-03-01,Onion,16.5,Payment Pending,Grade A,16.5,1200,19800.0,Pending,1,12,4
+B00081,F0023,S00260,PC004,2026-03-03,Paddy (Common),9.1,Grading,FAQ (Fair Average Quality),,2183,,Not Applicable,2,24,4
+B00082,F0054,S00147,PC002,2026-03-09,Paddy (Common),16.8,Payment Completed,FAQ (Fair Average Quality),16.8,2183,36674.4,Completed,1,12,4
+B00083,F0039,S00260,PC004,2026-03-03,Tur (Arhar),12.6,Procured,Below FAQ - Rejected,0.0,7000,0.0,Pending,3,36,4
+B00084,F0058,S00022,PC001,2026-03-03,Onion,22.9,Procured,FAQ (Fair Average Quality),22.9,1200,27480.0,Pending,1,12,4
+B00085,F0039,S00244,PC004,2026-03-01,Gram (Chana),5.5,Booked,,,5440,,Not Applicable,1,12,1
+B00086,F0007,S00176,PC003,2026-03-02,Paddy (Common),13.6,Confirmed,,,2183,,Not Applicable,1,12,2
+B00087,F0016,S00363,PC005,2026-03-06,Onion,24.8,Grading,Grade A,,1200,,Not Applicable,1,12,4
+B00088,F0024,S00191,PC003,2026-03-04,Maize,10.9,Payment Pending,Grade A,10.9,2090,22781.0,Pending,1,12,4
+B00089,F0004,S00324,PC005,2026-03-01,Bajra,3.5,Booked,,,2500,,Not Applicable,1,12,1
+B00090,F0044,S00198,PC003,2026-03-05,Maize,7.8,Payment Pending,Grade B,7.8,2090,16302.0,Pending,1,12,4
+B00091,F0039,S00077,PC001,2026-03-10,Bajra,3.9,Procured,Grade B,3.9,2500,9750.0,Pending,1,12,4
+B00092,F0020,S00336,PC005,2026-03-02,Tur (Arhar),5.0,Procured,FAQ (Fair Average Quality),5.0,7000,35000.0,Pending,2,24,4
+B00093,F0036,S00193,PC003,2026-03-05,Bajra,20.7,Procured,Below FAQ - Rejected,0.0,2500,0.0,Pending,1,12,4
+B00094,F0048,S00351,PC005,2026-03-04,Gram (Chana),4.1,Procured,FAQ (Fair Average Quality),4.1,5440,22304.0,Pending,1,12,4
+B00095,F0002,S00186,PC003,2026-03-04,Maize,6.1,Confirmed,,,2090,,Not Applicable,1,12,2
+B00096,F0050,S00249,PC004,2026-03-02,Soybean,7.2,Confirmed,,,4892,,Not Applicable,1,12,2
+B00097,F0005,S00152,PC002,2026-03-09,Paddy (Common),13.7,Grading,Grade A,,2183,,Not Applicable,2,24,4
+B00098,F0034,S00020,PC001,2026-03-03,Bajra,22.2,Procured,Grade A,22.2,2500,55500.0,Pending,1,12,4
+B00099,F0010,S00084,PC002,2026-03-01,Cotton,21.1,Payment Pending,Below FAQ - Rejected,0.0,7121,0.0,Pending,1,12,4
+B00100,F0011,S00370,PC005,2026-03-07,Onion,3.0,Checked-In,,,1200,,Not Applicable,2,24,3
+B00101,F0047,S00122,PC002,2026-03-06,Onion,16.0,Payment Pending,Below FAQ - Rejected,0.0,1200,0.0,Pending,1,12,4
+B00102,F0015,S00274,PC004,2026-03-05,Soybean,9.1,Payment Pending,FAQ (Fair Average Quality),9.1,4892,44517.2,Pending,1,12,4
+B00103,F0054,S00100,PC002,2026-03-03,Bajra,17.6,Procured,FAQ (Fair Average Quality),17.6,2500,44000.0,Pending,1,12,4
+B00104,F0050,S00145,PC002,2026-03-09,Tur (Arhar),13.6,Grading,FAQ (Fair Average Quality),,7000,,Not Applicable,1,12,4
+B00105,F0013,S00310,PC004,2026-03-09,Cotton,22.1,Booked,,,7121,,Not Applicable,1,12,1
+B00106,F0031,S00191,PC003,2026-03-04,Gram (Chana),23.5,Procured,FAQ (Fair Average Quality),23.5,5440,127840.0,Pending,2,24,4
+B00107,F0008,S00146,PC002,2026-03-09,Paddy (Common),19.6,Checked-In,,,2183,,Not Applicable,1,12,3
+B00108,F0058,S00263,PC004,2026-03-03,Cotton,21.1,Booked,,,7121,,Not Applicable,1,12,1
+B00109,F0059,S00114,PC002,2026-03-05,Onion,22.3,Payment Completed,FAQ (Fair Average Quality),22.3,1200,26760.0,Completed,1,12,4
+B00110,F0026,S00258,PC004,2026-03-03,Bajra,7.4,Payment Completed,FAQ (Fair Average Quality),7.4,2500,18500.0,Completed,1,12,4
+B00111,F0002,S00164,PC003,2026-03-01,Paddy (Common),21.3,Procured,Below FAQ - Rejected,0.0,2183,0.0,Pending,1,12,4
+B00112,F0009,S00020,PC001,2026-03-03,Maize,23.1,Grading,Below FAQ - Rejected,,2090,,Not Applicable,2,24,4
+B00113,F0049,S00362,PC005,2026-03-06,Onion,12.3,Booked,,,1200,,Not Applicable,1,12,1
+B00114,F0006,S00010,PC001,2026-03-02,Maize,7.0,Confirmed,,,2090,,Not Applicable,1,12,2
+B00115,F0047,S00312,PC004,2026-03-09,Gram (Chana),11.7,Payment Pending,FAQ (Fair Average Quality),11.7,5440,63648.0,Pending,1,12,4
+B00116,F0008,S00025,PC001,2026-03-04,Soybean,11.7,Payment Pending,FAQ (Fair Average Quality),11.7,4892,57236.4,Pending,1,12,4
+B00117,F0008,S00256,PC004,2026-03-02,Groundnut,14.3,Procured,Grade A,14.3,6377,91191.1,Pending,1,12,4
+B00118,F0046,S00074,PC001,2026-03-10,Maize,11.9,Procured,FAQ (Fair Average Quality),11.9,2090,24871.0,Pending,1,12,4
+B00119,F0027,S00096,PC002,2026-03-02,Paddy (Common),14.0,Checked-In,,,2183,,Not Applicable,1,12,3
+B00120,F0034,S00279,PC004,2026-03-05,Gram (Chana),20.1,Grading,FAQ (Fair Average Quality),,5440,,Not Applicable,1,12,4
+B00121,F0056,S00241,PC004,2026-03-01,Wheat,16.6,Payment Completed,FAQ (Fair Average Quality),16.6,2275,37765.0,Completed,2,24,4
+B00122,F0002,S00183,PC003,2026-03-03,Paddy (Common),9.9,Procured,Grade A,9.9,2183,21611.7,Pending,1,12,4
+B00123,F0050,S00298,PC004,2026-03-08,Bajra,5.1,Checked-In,,,2500,,Not Applicable,1,12,3
+B00124,F0022,S00330,PC005,2026-03-02,Cotton,21.1,Procured,Grade B,21.1,7121,150253.1,Pending,1,12,4
+B00125,F0031,S00324,PC005,2026-03-01,Cotton,20.7,Booked,,,7121,,Not Applicable,2,24,1
+B00126,F0050,S00235,PC003,2026-03-10,Wheat,8.7,Booked,,,2275,,Not Applicable,1,12,1
+B00127,F0013,S00022,PC001,2026-03-03,Bajra,23.5,Grading,Grade B,,2500,,Not Applicable,2,24,4
+B00128,F0035,S00243,PC004,2026-03-01,Maize,2.8,Procured,FAQ (Fair Average Quality),2.8,2090,5852.0,Pending,1,12,4
+B00129,F0056,S00400,PC005,2026-03-10,Wheat,21.9,Checked-In,,,2275,,Not Applicable,1,12,3
+B00130,F0008,S00189,PC003,2026-03-04,Tur (Arhar),22.5,Procured,Grade B,22.5,7000,157500.0,Pending,1,12,4
+B00131,F0025,S00174,PC003,2026-03-02,Cotton,13.4,Grading,Grade B,,7121,,Not Applicable,1,12,4
+B00132,F0034,S00137,PC002,2026-03-08,Paddy (Common),18.7,Booked,,,2183,,Not Applicable,1,12,1
+B00133,F0039,S00093,PC002,2026-03-02,Gram (Chana),8.8,Confirmed,,,5440,,Not Applicable,2,24,2
+B00134,F0021,S00339,PC005,2026-03-03,Maize,9.0,Procured,FAQ (Fair Average Quality),9.0,2090,18810.0,Pending,1,12,4
+B00135,F0045,S00228,PC003,2026-03-09,Bajra,12.3,Procured,Grade B,12.3,2500,30750.0,Pending,1,12,4
+B00136,F0040,S00223,PC003,2026-03-08,Maize,16.7,Payment Pending,FAQ (Fair Average Quality),16.7,2090,34903.0,Pending,1,12,4
+B00137,F0043,S00327,PC005,2026-03-01,Tur (Arhar),10.4,Payment Pending,Grade A,10.4,7000,72800.0,Pending,1,12,4
+B00138,F0002,S00074,PC001,2026-03-10,Groundnut,17.6,Grading,FAQ (Fair Average Quality),,6377,,Not Applicable,2,24,4
+B00139,F0016,S00399,PC005,2026-03-10,Bajra,10.3,Payment Completed,FAQ (Fair Average Quality),10.3,2500,25750.0,Completed,1,12,4
+B00140,F0010,S00348,PC005,2026-03-04,Onion,23.8,Checked-In,,,1200,,Not Applicable,1,12,3
+B00141,F0049,S00040,PC001,2026-03-05,Groundnut,5.2,Checked-In,,,6377,,Not Applicable,1,12,3
+B00142,F0021,S00333,PC005,2026-03-02,Maize,7.7,Confirmed,,,2090,,Not Applicable,1,12,2
+B00143,F0048,S00096,PC002,2026-03-02,Onion,13.9,Payment Completed,FAQ (Fair Average Quality),13.9,1200,16680.0,Completed,2,24,4
+B00144,F0050,S00134,PC002,2026-03-07,Onion,6.9,Procured,Grade A,6.9,1200,8280.0,Pending,1,12,4
+B00145,F0032,S00103,PC002,2026-03-03,Paddy (Common),5.1,Booked,,,2183,,Not Applicable,1,12,1
+B00146,F0012,S00366,PC005,2026-03-06,Onion,24.9,Payment Pending,Grade B,24.9,1200,29880.0,Pending,1,12,4
+B00147,F0021,S00342,PC005,2026-03-03,Bajra,18.3,Grading,FAQ (Fair Average Quality),,2500,,Not Applicable,1,12,4
+B00148,F0020,S00081,PC002,2026-03-01,Cotton,20.3,Grading,FAQ (Fair Average Quality),,7121,,Not Applicable,1,12,4
+B00149,F0013,S00072,PC001,2026-03-09,Soybean,20.2,Booked,,,4892,,Not Applicable,1,12,1
+B00150,F0036,S00294,PC004,2026-03-07,Bajra,12.8,Payment Completed,FAQ (Fair Average Quality),12.8,2500,32000.0,Completed,1,12,4
